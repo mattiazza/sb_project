@@ -20,7 +20,7 @@ def arg_parser():
     return parser.parse_args()
 
 
-if __name__ == '__main__':
+def get_features(data_path:Path(), conf_file=False, out_dir:Path())-> pd.DataFrame:
 
     args = arg_parser()
 
