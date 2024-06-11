@@ -11,6 +11,9 @@ ipykernel = "^6.29.4"
 numpy = "^1.26.4"
 pandas = "^2.2.2"
 scikit-learn = "^1.5.0"
+torch = "^2.3.0"
+hiddenlayer = "^0.3"
+matplotlib = "^3.9.0"
 
 
 [tool.poetry.group.dev.dependencies]
