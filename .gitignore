@@ -1,4 +1,3 @@
 .DS_Store
 poetry.lock
 features_ring/*
-data/*
