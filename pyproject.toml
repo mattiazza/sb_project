@@ -26,6 +26,7 @@ torchdata = "^0.7.1"
 torchtext = "^0.18.0"
 torchvision = "^0.18.1"
 portalocker = "^2.8.2"
+tensorflow = "^2.16.1"
 
 
 [tool.poetry.group.dev.dependencies]
